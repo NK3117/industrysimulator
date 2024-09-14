@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f10da18b
 license: CC0-1.0
+name: industrysimulator
 type: industry
+url: https://github.com/NK3117/industrysimulator
 version: 6
