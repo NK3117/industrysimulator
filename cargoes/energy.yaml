@@ -1,16 +1,16 @@
-abbreviation: NE
-available: false
+abbreviation: EG
+available: true
 classes: 32
-colour: 1
+colour: 244
 id: 0
-label: NEWC
-longName: 'new cargo #0'
-name: 'New Cargo #0'
+label: ENRG
+longName: energy
+name: Energy
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-0.png
+  filename: cargoes/energy.png
   left: 0
   top: 0
 unitName: Items
