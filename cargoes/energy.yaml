@@ -1,17 +1,17 @@
 abbreviation: EG
 available: true
-classes: 32
+classes: 800
 colour: 244
 id: 0
 label: ENRG
 longName: energy
 name: Energy
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 214
+penaltyLowerBound: 41
 price: 4112
 sprite:
   filename: cargoes/energy.png
   left: 0
   top: 0
 unitName: Items
-weight: 16
+weight: 6
